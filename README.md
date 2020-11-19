@@ -29,7 +29,7 @@ Finally, I'm looking for an opportunity.
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" alt="Node JS" style="vertical-align:top margin:6px 4px">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" alt="Visual Studio" style="vertical-align:top margin:6px 4px">
      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" alt="Bootstrap" style="vertical-align:top margin:6px 4px">
-
+      <img src="https://badges.frapsoft.com/typescript/love/typescript-150x33.png?v=101" alt="Bootstrap" style="vertical-align:top margin:6px 4px">
 </p> 
 
 <!--
