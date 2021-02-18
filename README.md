@@ -32,7 +32,8 @@ Finally, I'm looking for an opportunity.
       <img src="https://badges.frapsoft.com/typescript/love/typescript-150x33.png?v=101" alt="Bootstrap" style="vertical-align:top margin:6px 4px">
 </p> 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandolinhares)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandolinhares&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandolinhares&layout=compact&count_private=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Nandolinhares/nandolinhares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
