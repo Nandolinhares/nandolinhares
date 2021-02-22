@@ -5,19 +5,12 @@
   </p>
 
 ### Hello everyone 👋
-My name is Fernando Linhares, 23 and I'm currently an undergraduate student studying Computer Science at UENF. I believe with the right actions we could transform
-the world in a better place for everyone. I have been working with Web Development for 4 years and with different technologies as: HTML5, CSS3, Javascript, React, React Native, Wordpress, PHP and Ruby On Rails. Nowadays, I have been using Javascript, React JS, React Native, Node JS and Firebase Firestore developing personal projects. My focus is improving both my web and mobile skills.
-
-I already had professional experiences, however all the opportunities was as a freelancer
-or at a Junior Company. My personal desire is building a professional career, growing up
-inside a Company, getting and sharing both knowlodges and experiences. Furthermore,
-I'm an open minded person, with comunication skills and always learning with the events.
-
-Currently I'm working on a Scientific project at my University, where the goal is to make
-easier the chemistry learning at schools. Because of that, I have been developing a mobile
-application using React Native, Node JS and Firebase to make it possible.
-
-Finally, I'm looking for an opportunity. 
+My name is Fernando Linhares, 23 and I believe with the right actions we could transform the world in a better place for everyone. 
+ 
+- Javascript and Typescript Developer
+- React Js
+- Angular,
+- React Native
 
 ### Skills
 
