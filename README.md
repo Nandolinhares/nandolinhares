@@ -7,12 +7,9 @@
   ![](https://komarev.com/ghpvc/?username=nandolinhares)
 
 ### Hello everyone 👋
-My name is Fernando Linhares, 23 and I believe with the right actions we could transform the world in a better place for everyone. 
+My name is Fernando Linhares and I believe with the right actions we could transform the world in a better place for everyone. 
  
-- Javascript and Typescript Developer
-- React Js
-- Angular,
-- React Native
+- Javascript, Typescript and React Developer. 
 
 ### Skills
 
