@@ -9,7 +9,7 @@
 ### Hello everyone 👋
 My name is Fernando Linhares and I believe with the right actions we could transform the world in a better place for everyone. 
  
-- Javascript, Typescript and React Developer. 
+- Javascript, Typescript, React, Web Components and tests.
 
 ### Skills
 
